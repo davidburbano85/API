@@ -1,0 +1,6 @@
+Hola estimado(a),
+Si tienes alguna duda sobre el desarrollo favor de dejarlo en los comentarios.
+Y si quieres que desarrollemos alguna funcionalidad que te interese, dejalo en los comentarios y 
+lo tendremos en mente para desarrollarlo proximamente.
+
+Saludos.
